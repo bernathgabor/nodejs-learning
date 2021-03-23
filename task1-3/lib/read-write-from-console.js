@@ -1,5 +1,4 @@
-var readline = require('readline');
-
+import readline from 'readline';
 var rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,

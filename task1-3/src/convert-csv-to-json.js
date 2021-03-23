@@ -1,4 +1,4 @@
-var fs  = require('fs');
+import fs from 'fs';
 const csv=require('csvtojson');
 const readline = require('readline');
 
